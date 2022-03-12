@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Avian!</h1>
+<title align="left">Hi, I'm Avian!</title>
 <h3 align="left">some random ass dude lmao</h3>
 
 ## Languages I know 
