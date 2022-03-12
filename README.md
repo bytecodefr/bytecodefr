@@ -6,6 +6,6 @@
 local languages = {"Lua","Python","JavaScript","Java","Others"}
 ```
 <h1 align="left">Contact</h1>
-<p align="left">You can DM me on Discord by clicking below</p>
+<p align="left">Discord</p>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/479447486881071106)](https://discord.com/users/479447486881071106)
