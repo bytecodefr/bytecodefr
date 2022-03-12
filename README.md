@@ -3,7 +3,7 @@
 
 ## Languages I know 
 ```lua
-local languages = {"Lua","Python","JavaScript","Java","Others"}
+local languages = {"Lua","Python","JavaScript","Java","C# (Not much)"}
 ```
 <h1 align="left">Contact</h1>
 <h3 align="left">Discord</h3>
