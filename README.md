@@ -6,6 +6,6 @@
 local languages = {"Lua","Python","JavaScript","Java","Others"}
 ```
 <h1 align="left">Contact</h1>
-<p align="left">Discord</p>
+<h3 align="left">Discord</h3>
 
 <p align="center">Avian#9893</p>
