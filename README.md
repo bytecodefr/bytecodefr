@@ -2,6 +2,7 @@
 <h3 align="left">some random ass dude lmao</h3>
 
 <h1 align="center">Some Languages I Know</h1>
+
 ```lua
 local languages = {"Lua","Python","JavaScript","Java","C# (Not much)"}
 ```
