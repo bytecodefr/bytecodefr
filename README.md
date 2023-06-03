@@ -1,14 +1,5 @@
-<h1 align="center">Avian</h1>
-<h3 align="left">some random ass dude lmao</h3>
+# About Me
+I'm a programmer who is interested in obfuscation, reverse engineering, and other stuff
 
-<h1 align="center">Some Languages I Know</h1>
-
-```lua
-local languages = {"Lua","Python","JavaScript","Java","C# (Not much)"}
-```
-
-
-<h1 align="center">Contact</h1>
-<h3 align="left">Discord</h3>
-
+# Contact me
 [![Discord Presence](https://lanyard.cnrad.dev/api/980255478527430671)](https://discord.com/users/980255478527430671)
